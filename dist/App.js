@@ -1,8 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-import LogIn from "./log_in/login";
-import Main from "./main/mainpage";
+import LogIn from "./login";
+import Main from "./mainpage";
 
 function App() {
 	return (
